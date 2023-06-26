@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+.item1 {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  display: inline-block;
+}
+.item2 {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(61, 75, 137);
+  display: inline-block;
+}
+.item3 {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(26, 181, 96);
+  display: inline-block;
+}
